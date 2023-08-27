@@ -1,0 +1,412 @@
+{
+    "physics_topics": [
+      {
+        "topic": "Condensed Matter Physics",
+        "subtopics": [
+          {
+            "name": "Fermi Liquid Theory",
+            "summary": "Describes how interacting fermions in metals behave collectively, explaining conductivity and heat capacity."
+          },
+          {
+            "name": "Topological Insulators",
+            "summary": "Materials insulating in bulk but conducting on surfaces due to unique topological properties."
+          },
+          {
+            "name": "Quantum Hall Effect",
+            "summary": "Reveals quantized conductance in 2D electron systems under strong magnetic fields."
+          },
+          {
+            "name": "Soft Condensed Matter",
+            "summary": "Studies materials with complex structures, like polymers, colloids, and liquid crystals."
+          },
+          {
+            "name": "Magnetism and Spintronics",
+            "summary": "Explores magnetic materials' behavior and their role in electronic devices."
+          },
+          {
+            "name": "Superconductors",
+            "summary": "Materials displaying zero electrical resistance below a critical temperature, with applications in energy transmission."
+          },
+          {
+            "name": "Phonons and Vibrational Modes",
+            "summary": "Investigates lattice vibrations and quantized energy packets (phonons) in solids."
+          },
+          {
+            "name": "Electronic Band Structure",
+            "summary": "Examines electron energy levels in solids, explaining electrical and optical properties."
+          }
+        ]
+      },
+      {
+        "topic": "Nuclear Physics",
+        "subtopics": [
+          {
+            "name": "Nuclear Fusion",
+            "summary": "Study of nuclear reactions releasing energy by combining atomic nuclei, pursued for clean energy."
+          },
+          {
+            "name": "Nuclear Models",
+            "summary": "Theoretical approaches to understand atomic nucleus behavior, including liquid drop and shell models."
+          },
+          {
+            "name": "Neutrino Physics",
+            "summary": "Investigation of elusive neutrinos and their oscillations, revealing insights into particle properties."
+          },
+          {
+            "name": "Quark-Gluon Plasma",
+            "summary": "Explores state of matter where quarks and gluons move freely, resembling conditions after the Big Bang."
+          },
+          {
+            "name": "Nuclear Astrophysics",
+            "summary": "Applies nuclear physics principles to understand stellar processes and element formation."
+          },
+          {
+            "name": "Beta Decay",
+            "summary": "Examines radioactive decay involving the emission of beta particles from atomic nuclei."
+          },
+          {
+            "name": "Nuclear Reactions",
+            "summary": "Studies processes where atomic nuclei interact, crucial for understanding nuclear properties."
+          },
+          {
+            "name": "Nuclear Structure",
+            "summary": "Investigates arrangement of protons and neutrons in atomic nuclei and their energy levels."
+          }
+        ]
+      },
+      {
+        "topic": "Optics and Photonics",
+        "subtopics": [
+          {
+            "name": "Holography",
+            "summary": "Produces 3D images using interference patterns, applied in security and artistic displays."
+          },
+          {
+            "name": "Nonlinear Optics",
+            "summary": "Explores light-matter interactions at high intensities, enabling frequency conversion and signal processing."
+          },
+          {
+            "name": "Fiber Optics",
+            "summary": "Transmits data through optical fibers using total internal reflection, vital for high-speed communication."
+          },
+          {
+            "name": "Photonic Crystals",
+            "summary": "Manipulates light propagation using periodic structures, useful for optical devices and sensors."
+          },
+          {
+            "name": "Ultrafast Optics",
+            "summary": "Investigates rapid light phenomena with femtosecond timescales, impacting lasers and spectroscopy."
+          },
+          {
+            "name": "Quantum Optics",
+            "summary": "Applies quantum mechanics to study phenomena like entanglement and photon statistics."
+          },
+          {
+            "name": "Lasers",
+            "summary": "Explores principles of stimulated emission to generate coherent and powerful light sources."
+          },
+          {
+            "name": "Optical Imaging",
+            "summary": "Uses light to create images of objects at various scales, from microscopes to telescopes."
+          }
+        ]
+      },
+      {
+        "topic": "Advanced Computational Physics",
+        "subtopics": [
+          {
+            "name": "Lattice QCD",
+            "summary": "Simulates quark and gluon interactions in quantum chromodynamics using lattice discretization."
+          },
+          {
+            "name": "Fluid Dynamics Simulations",
+            "summary": "Numerically models fluid motion and turbulence, essential in engineering and environmental studies."
+          },
+          {
+            "name": "Quantum Monte Carlo",
+            "summary": "Computes quantum systems' properties using random sampling, valuable for complex problems."
+          },
+          {
+            "name": "Machine Learning in Physics",
+            "summary": "Applies machine learning techniques to analyze data, predict outcomes, and discover patterns."
+          },
+          {
+            "name": "Computational Astrophysics",
+            "summary": "Simulates celestial phenomena like galaxy formation, supernovae, and cosmic evolution."
+          },
+          {
+            "name": "Molecular Dynamics",
+            "summary": "Models particle interactions to study molecular motion, relevant in materials and biology."
+          },
+          {
+            "name": "Quantum Computing",
+            "summary": "Utilizes quantum bits (qubits) for exponential speedup in solving certain computational problems."
+          },
+          {
+            "name": "Multiscale Modeling",
+            "summary": "Combines models at different scales to simulate complex systems like biomolecules or climate."
+          }
+        ]
+      },
+      {
+        "topic": "Plasma Physics",
+        "subtopics": [
+          {
+            "name": "Magnetic Confinement",
+            "summary": "Contains high-temperature plasma using magnetic fields, key for controlled nuclear fusion."
+          },
+          {
+            "name": "Plasma Instabilities",
+            "summary": "Studies disruptions and fluctuations in plasma equilibrium, vital for stable fusion reactors."
+          },
+          {
+            "name": "Astrophysical Plasmas",
+            "summary": "Explores plasma behavior in space phenomena like solar flares, accretion disks, and cosmic jets."
+          },
+          {
+            "name": "Laser-Plasma Interaction",
+            "summary": "Investigates intense laser interactions with plasma, creating high-energy particles and radiation."
+          },
+          {
+            "name": "Space Propulsion",
+            "summary": "Utilizes plasma propulsion to propel spacecraft, offering efficient thrust in space missions."
+          },
+          {
+            "name": "Plasma Applications",
+            "summary": "Applies plasma in materials processing, nanofabrication, and pollution control technologies."
+          },
+          {
+            "name": "Plasma Waves",
+            "summary": "Studies wave phenomena in plasma, including Langmuir and Alfvén waves, with diverse applications."
+          },
+          {
+            "name": "Magnetohydrodynamics",
+            "summary": "Combines fluid dynamics and magnetism to model plasma behavior in astrophysical contexts."
+          }
+        ]
+      },
+      {
+        "topic": "Quantum Mechanics",
+        "subtopics": [
+          {
+            "name": "Quantum Entanglement",
+            "summary": "Describes correlated states between particles, leading to non-local phenomena and quantum communication."
+          },
+          {
+            "name": "Quantum Computing",
+            "summary": "Utilizes superposition and entanglement for exponential speedup in solving specific problems."
+          },
+          {
+            "name": "Quantum Information Theory",
+            "summary": "Applies quantum concepts to information storage, transmission, and cryptography."
+          },
+          {
+            "name": "Decoherence and Quantum Measurement",
+            "summary": "Examines interactions with the environment causing loss of quantum coherence, leading to classical behavior."
+          },
+          {
+            "name": "Quantum Algorithms",
+            "summary": "Develops algorithms for quantum computers, promising solutions to complex computational problems."
+          },
+          {
+            "name": "Quantum Field Theory",
+            "summary": "Unifies quantum mechanics and special relativity to describe particle interactions and fundamental forces."
+          },
+          {
+            "name": "Quantum Many-Body Physics",
+            "summary": "Studies behavior of many interacting quantum particles, crucial in condensed matter and nuclear physics."
+          },
+          {
+            "name": "Quantum Simulation",
+            "summary": "Simulates quantum systems to understand fundamental physics and develop new materials."
+          }
+        ]
+      },
+      {
+        "topic": "Electrodynamics",
+        "subtopics": [
+          {
+            "name": "Electromagnetic Waves",
+            "summary": "Studies oscillations of electric and magnetic fields, encompassing radio waves to gamma rays."
+          },
+          {
+            "name": "Antennas and Propagation",
+            "summary": "Designs antennas for efficient emission and reception of electromagnetic waves, crucial for communication."
+          },
+          {
+            "name": "Electromagnetic Interference",
+            "summary": "Analyzes unwanted radiation causing disruptions in electronic devices and communication systems."
+          },
+          {
+            "name": "Plasma Waves and Instabilities",
+            "summary": "Explores collective plasma behaviors and instabilities, contributing to fusion research and space science."
+          },
+          {
+            "name": "Electromagnetic Theory",
+            "summary": "Formulates Maxwell's equations and electromagnetic principles, foundation for many technologies."
+          },
+          {
+            "name": "Electromagnetic Radiation",
+            "summary": "Examines emission and propagation of energy in the form of electromagnetic waves, essential in radiative processes."
+          },
+          {
+            "name": "Metamaterials",
+            "summary": "Designs engineered materials with unique electromagnetic properties, enabling invisibility cloaks and lensing."
+          },
+          {
+            "name": "Plasma Diagnostics",
+            "summary": "Uses electromagnetic waves to diagnose plasma properties, aiding in fusion and space research."
+          }
+        ]
+      },
+      {
+        "topic": "Statistical Mechanics",
+        "subtopics": [
+          {
+            "name": "Thermodynamics",
+            "summary": "Studies macroscopic behavior of systems in equilibrium, involving temperature, energy, and entropy."
+          },
+          {
+            "name": "Quantum Statistical Mechanics",
+            "summary": "Applies statistical methods to quantum systems, describing behavior of particles at small scales."
+          },
+          {
+            "name": "Phase Transitions",
+            "summary": "Investigates abrupt changes in properties at critical conditions, such as solid-liquid-gas transitions."
+          },
+          {
+            "name": "Brownian Motion",
+            "summary": "Analyzes random motion of particles suspended in fluid, revealing insights into diffusion and molecular forces."
+          },
+          {
+            "name": "Entropy and Information Theory",
+            "summary": "Relates information theory and entropy, providing insights into data compression and complex systems."
+          },
+          {
+            "name": "Fluctuation-Dissipation Theorem",
+            "summary": "Links fluctuations and dissipation in systems, connecting microscopic dynamics to macroscopic behavior."
+          },
+          {
+            "name": "Kinetic Theory",
+            "summary": "Describes behavior of gases and plasmas based on particles' motion and collision dynamics."
+          },
+          {
+            "name": "Statistical Mechanics of Networks",
+            "summary": "Applies statistical concepts to study complex networks, including social, biological, and technological systems."
+          }
+        ]
+      },
+      {
+        "topic": "Solid State Physics",
+        "subtopics": [
+          {
+            "name": "Crystal Structure",
+            "summary": "Studies arrangement of atoms in crystals, influencing materials' properties and behavior."
+          },
+          {
+            "name": "Semiconductor Physics",
+            "summary": "Investigates electronic behavior of semiconducting materials, essential in modern electronics."
+          },
+          {
+            "name": "Superconductivity",
+            "summary": "Explores materials with zero electrical resistance at low temperatures, enabling lossless energy transfer."
+          },
+          {
+            "name": "Magnetism in Solids",
+            "summary": "Examines magnetic properties of materials, contributing to data storage and medical imaging."
+          },
+          {
+            "name": "Dielectric and Ferroelectric Materials",
+            "summary": "Studies insulating and polarizable materials, vital in capacitors and memory devices."
+          },
+          {
+            "name": "Nanostructures",
+            "summary": "Explores materials and devices at nanometer scales, influencing electronics and materials science."
+          },
+          {
+            "name": "Defects in Solids",
+            "summary": "Analyzes crystal lattice imperfections, affecting materials' mechanical, electrical, and optical properties."
+          },
+          {
+            "name": "Thermoelectrics",
+            "summary": "Investigates materials converting temperature differences into electrical energy, relevant for waste heat recovery."
+          }
+        ]
+      },
+      {
+        "topic": "Particle Physics",
+        "subtopics": [
+          {
+            "name": "Standard Model",
+            "summary": "Describes fundamental particles and their interactions through electromagnetic, weak, and strong forces."
+          },
+          {
+            "name": "Supersymmetry",
+            "summary": "Proposes particle symmetry, aiming to address unanswered questions beyond the Standard Model."
+          },
+          {
+            "name": "Dark Matter",
+            "summary": "Studies undetected matter influencing galaxies' behavior, with implications for cosmology."
+          },
+          {
+            "name": "Neutrino Physics",
+            "summary": "Investigates elusive neutrinos, revealing properties and their role in particle interactions."
+          },
+          {
+            "name": "Collider Experiments",
+            "summary": "Conducts high-energy experiments to study fundamental particles and test theoretical predictions."
+          },
+          {
+            "name": "Beyond the Standard Model",
+            "summary": "Explores theories challenging the Standard Model's limitations and seeks new physics."
+          },
+          {
+            "name": "Particle Detectors",
+            "summary": "Designs devices to detect and measure particle properties, vital in experimental particle physics."
+          },
+          {
+            "name": "Higgs Boson",
+            "summary": "Discovers Higgs boson, explaining mass generation mechanism and completing the Standard Model."
+          }
+        ]
+      },
+      {
+        "topic": "Cosmology and Astrophysics",
+        "subtopics": [
+          {
+            "name": "Big Bang Theory",
+            "summary": "Describes universe's origin and early expansion, confirmed by cosmic microwave background radiation."
+          },
+          {
+            "name": "Dark Energy",
+            "summary": "Investigates unknown energy accelerating universe's expansion, shaping its large-scale structure."
+          },
+          {
+            "name": "Black Holes",
+            "summary": "Studies collapsed objects with intense gravity, influencing galaxy evolution and emitting gravitational waves."
+          },
+          {
+            "name": "Exoplanets",
+            "summary": "Detects planets outside our solar system, advancing understanding of planetary formation and habitability."
+          },
+          {
+            "name": "Galactic Dynamics",
+            "summary": "Analyzes motion of stars and gas within galaxies, revealing dark matter's distribution and effects."
+          },
+          {
+            "name": "Cosmic Microwave Background",
+            "summary": "Studies faint radiation from early universe, providing insights into its properties and evolution."
+          },
+          {
+            "name": "Stellar Evolution",
+            "summary": "Investigates stars' life cycles, leading to insights into nucleosynthesis and stellar remnants."
+          },
+          {
+            "name": "Astroparticle Physics",
+            "summary": "Studies high-energy particles from space, shedding light on cosmic rays and neutrinos."
+          }
+        ]
+      }
+    ]
+  }
+  
